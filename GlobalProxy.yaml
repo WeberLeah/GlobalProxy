@@ -1,6 +1,6 @@
 payload:
   - DOMAIN,hifiti.com
-  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN,www.1lou.me
   - DOMAIN,chatgpt.com

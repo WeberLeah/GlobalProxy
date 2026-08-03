@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN,hifiti.com
   - DOMAIN,www.1lou.me

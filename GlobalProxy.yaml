@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloud.microsoft
   - DOMAIN,hifiti.com
   - DOMAIN,www.1lou.me
   - DOMAIN,www.btbtla.com

@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,live.com 
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,azureedge.net
 
   ##人机验证域名
   - DOMAIN-SUFFIX,cloudflare.com

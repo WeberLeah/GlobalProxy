@@ -10,6 +10,3 @@ payload:
   ##AI
   - DOMAIN,chatgpt.com
   - DOMAIN,claude.ai
-
-  ##漫画
-  - DOMAIN,api.mangacopy.com

@@ -1,7 +1,12 @@
 payload:
+  ##Github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubassets.com
+
+  ##Hifiti
   - DOMAIN,hifiti.com
+
+  ##AI
   - DOMAIN,chatgpt.com
   - DOMAIN,claude.ai

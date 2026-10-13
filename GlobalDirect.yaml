@@ -1,5 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,cloudflare.com
+  ##微软域名
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,live.com 
+  - DOMAIN-SUFFIX,microsoft.com
+
+  ##人机验证域名
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com
+  

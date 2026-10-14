@@ -10,6 +10,9 @@ payload:
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,bingapis.com
 
+  ##Apple域名
+  - DOMAIN-SUFFIX,apple.com
+
   ##人机验证域名
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com

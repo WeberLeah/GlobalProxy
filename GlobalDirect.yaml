@@ -20,3 +20,4 @@ payload:
   ##SSL证书
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,fastly-edge.com

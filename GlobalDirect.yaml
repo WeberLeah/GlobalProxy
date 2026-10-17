@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,msn.cn
 
   ##Apple域名
   - DOMAIN-SUFFIX,apple.com

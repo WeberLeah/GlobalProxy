@@ -11,6 +11,9 @@ payload:
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,msn.cn
 
+  ##GITHUB SSH域名
+  - DOMAIN,ssh.github.com
+
   ##Apple域名
   - DOMAIN-SUFFIX,apple.com
 

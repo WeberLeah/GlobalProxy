@@ -13,4 +13,4 @@ payload:
 
   ##emby
   - DOMAIN,nl.ftp2.eu.org
-  ##- DOMAIN,vipdc.covh.eu.org
+  - DOMAIN,vipdc.covh.eu.org

@@ -10,3 +10,7 @@ payload:
   ##AI
   - DOMAIN,chatgpt.com
   - DOMAIN,claude.ai
+
+  ##emby
+  - DOMAIN,nl.ftp2.eu.org
+  ##- DOMAIN,vipdc.covh.eu.org

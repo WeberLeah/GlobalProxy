@@ -16,4 +16,5 @@ payload:
   - DOMAIN,vipdc.covh.eu.org
 
   ##漫画
+  - DOMAIN,api.copy4000.com
   - DOMAIN-SUFFIX,mangafunb.fun

@@ -19,8 +19,6 @@ payload:
   ##漫画
   - DOMAIN,api.copy4000.com
   - DOMAIN-SUFFIX,mangafunb.fun
-  - DOMAIN-SUFFIX,jc-podd.cc
-  - DOMAIN-SUFFIX,jmapiproxy1.cc
 
   ##蜜柑计划
   - DOMAIN,mikanime.tv

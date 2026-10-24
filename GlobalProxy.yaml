@@ -23,3 +23,6 @@ payload:
 
   ##蜜柑计划
   - DOMAIN,mikanime.tv
+
+  ##网站
+  - DOMAIN-SUFFIX,286329.xyz

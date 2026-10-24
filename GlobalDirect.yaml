@@ -1,26 +1,3 @@
 payload:
-  ##微软域名
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,live.com 
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,msedge.net
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,msn.cn
-
   ##GITHUB SSH域名
   - 'AND,((DOMAIN,github.com),(DST-PORT,22))'
-
-  ##Apple域名
-  - DOMAIN-SUFFIX,apple.com
-
-  ##人机验证域名
-  - DOMAIN-SUFFIX,hcaptcha.com
-  
-  ##SSL证书
-  - DOMAIN-SUFFIX,globalsign.com
-  - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,fastly-edge.com

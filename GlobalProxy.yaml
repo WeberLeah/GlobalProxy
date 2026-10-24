@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,090911.xyz
   - DOMAIN,nl.ftp2.eu.org
   - DOMAIN,vipdc.covh.eu.org
-  - DOMAIN,up.090911.xyz
 
   ##漫画
   - DOMAIN,api.copy4000.com

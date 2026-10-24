@@ -12,7 +12,7 @@ payload:
   - DOMAIN,claude.ai
 
   ##emby
-  - DOMAIN,user.090911.xyz
+  - DOMAIN-SUFFIX,090911.xyz
   - DOMAIN,nl.ftp2.eu.org
   - DOMAIN,vipdc.covh.eu.org
   - DOMAIN,up.090911.xyz

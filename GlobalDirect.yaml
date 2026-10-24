@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,apple.com
 
   ##人机验证域名
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com
   
   ##SSL证书

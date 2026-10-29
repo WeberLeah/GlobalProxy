@@ -1,9 +1,4 @@
 payload:
-  ##Github
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubassets.com
-
   ##Hifiti
   - DOMAIN,hifiti.com
 
@@ -11,17 +6,5 @@ payload:
   - DOMAIN,chatgpt.com
   - DOMAIN,claude.ai
 
-  ##emby
-  - DOMAIN-SUFFIX,090911.xyz
-  - DOMAIN,nl.ftp2.eu.org
-  - DOMAIN,vipdc.covh.eu.org
-
-  ##漫画
-  - DOMAIN,api.copy4000.com
-  - DOMAIN-SUFFIX,mangafunb.fun
-
   ##蜜柑计划
   - DOMAIN,mikanime.tv
-
-  ##网站
-  - DOMAIN-SUFFIX,286329.xyz

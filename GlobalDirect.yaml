@@ -19,6 +19,7 @@ payload:
 
   ##人机验证域名
   - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,cloudflare.com
   
   ##SSL证书
   - DOMAIN-SUFFIX,globalsign.com

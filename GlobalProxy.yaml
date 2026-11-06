@@ -22,3 +22,9 @@ payload:
 
   ##蜜柑计划
   - DOMAIN,mikanime.tv
+
+  ##网站
+  - DOMAIN,openlist.286329.xyz
+
+  ##NAT小鸡
+  - DOMAIN,dash.fuckip.me

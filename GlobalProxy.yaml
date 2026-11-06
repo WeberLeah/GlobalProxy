@@ -24,7 +24,7 @@ payload:
   - DOMAIN,mikanime.tv
 
   ##网站
-  - DOMAIN,openlist.286329.xyz
+  - DOMAIN-SUFFIX,286329.xyz
 
   ##NAT小鸡
-  - DOMAIN,dash.fuckip.me
+  - DOMAIN-SUFFIX,fuckip.me

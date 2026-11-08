@@ -13,8 +13,8 @@ payload:
 
   ##emby
   - DOMAIN-SUFFIX,090911.xyz
-  - DOMAIN,nl.ftp2.eu.org
-  - DOMAIN,vipdc.covh.eu.org
+  ##- DOMAIN,nl.ftp2.eu.org
+  ##- DOMAIN,vipdc.covh.eu.org
 
   ##拷贝漫画
   - DOMAIN,api.copy4000.com

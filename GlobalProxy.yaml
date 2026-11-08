@@ -31,4 +31,4 @@ payload:
   - DOMAIN-SUFFIX,fuckip.me
 
   ##质量报告
-  - DOMAIN,nodequality.com
+  - DOMAIN-SUFFIX,nodequality.com

@@ -29,3 +29,6 @@ payload:
 
   ##NAT小鸡
   - DOMAIN-SUFFIX,fuckip.me
+
+  ##质量报告
+  - DOMAIN,nodequality.com

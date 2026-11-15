@@ -31,3 +31,6 @@ payload:
 
   ##质量报告
   - DOMAIN-SUFFIX,nodequality.com
+
+  ##小说
+  - DOMAIN-SUFFIX,aabook.net

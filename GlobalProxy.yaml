@@ -4,33 +4,30 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubassets.com
 
-  ##Hifiti
-  - DOMAIN,hifiti.com
-
   ##AI
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
+
+  ##音乐
+  - DOMAIN,hifiti.com
+
+  ##动漫
+  - DOMAIN,mikanime.tv
 
   ##emby
   - DOMAIN-SUFFIX,090911.xyz
   ##- DOMAIN,nl.ftp2.eu.org
   ##- DOMAIN,vipdc.covh.eu.org
 
-  ##拷贝漫画
+  ##漫画
   - DOMAIN,api.copy4000.com
   - DOMAIN-SUFFIX,mangafunb.fun
 
-  ##蜜柑计划
-  - DOMAIN,mikanime.tv
+  ##小说
+  - DOMAIN-SUFFIX,aabook.net
+  - DOMAIN-SUFFIX,z-library.biz
 
   ##网站
   - DOMAIN-SUFFIX,286329.xyz
-
-  ##NAT小鸡
-  - DOMAIN-SUFFIX,fuckip.me
-
-  ##质量报告
-  - DOMAIN-SUFFIX,nodequality.com
-
-  ##小说
-  - DOMAIN-SUFFIX,aabook.net
+  - DOMAIN-SUFFIX,fuckip.me  ##NAT小鸡
+  - DOMAIN-SUFFIX,nodequality.com ##质量报告

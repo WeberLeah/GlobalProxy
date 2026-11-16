@@ -25,3 +25,6 @@ payload:
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,fastly-edge.com
+
+  ##影视同步
+  - DOMAIN,api.trakt.tv

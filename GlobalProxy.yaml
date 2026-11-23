@@ -1,7 +1,10 @@
 payload:
   ##AI
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN,chatgpt.com
+  - DOMAIN,claude.ai
+
+  ##音乐
+  - DOMAIN,github.com
 
   ##音乐
   - DOMAIN,hifiti.com
@@ -10,5 +13,7 @@ payload:
   - DOMAIN,mikanime.tv
 
   ##小说
-  - DOMAIN-SUFFIX,aabook.net
-  - DOMAIN-SUFFIX,z-library.biz
+  - DOMAIN,aabook.net
+  - DOMAIN,z-library.biz
+
+  ##- DOMAIN-SUFFIX,z-library.biz

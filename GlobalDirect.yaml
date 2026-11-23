@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
 
   ##GITHUB SSH域名
-  ##- 'AND,((DOMAIN,github.com),(DST-PORT,22))'
+  - 'AND,((DOMAIN,github.com),(DST-PORT,22))'

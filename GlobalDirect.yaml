@@ -1,6 +1,6 @@
 payload:
   ##微软下载域名
-  - DOMAIN-SUFFIX,microsoft.com
+  ##- DOMAIN-SUFFIX,microsoft.com
 
   ##GITHUB SSH域名
-  - 'AND,((DOMAIN,github.com),(DST-PORT,22))'
+  ##- 'AND,((DOMAIN,github.com),(DST-PORT,22))'

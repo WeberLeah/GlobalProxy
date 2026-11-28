@@ -1,19 +1,19 @@
 payload:
   ##AI
-  - DOMAIN,chatgpt.com
-  - DOMAIN,claude.ai
+  ##- DOMAIN,chatgpt.com
+  ##- DOMAIN,claude.ai
 
   ##音乐
-  - DOMAIN,github.com
+  ##- DOMAIN,github.com
 
   ##音乐
-  - DOMAIN,hifiti.com
+  ##- DOMAIN,hifiti.com
 
   ##动漫
-  - DOMAIN,mikanime.tv
+  ##- DOMAIN,mikanime.tv
 
   ##小说
-  - DOMAIN,aabook.net
-  - DOMAIN,z-library.biz
+ ## - DOMAIN,aabook.net
+  ##- DOMAIN,z-library.biz
 
   ##- DOMAIN-SUFFIX,z-library.biz

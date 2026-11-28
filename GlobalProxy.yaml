@@ -3,7 +3,7 @@ payload:
   ##- DOMAIN,chatgpt.com
   ##- DOMAIN,claude.ai
 
-  ##音乐
+  ##GitHub
   ##- DOMAIN,github.com
 
   ##音乐
@@ -15,5 +15,9 @@ payload:
   ##小说
  ## - DOMAIN,aabook.net
   ##- DOMAIN,z-library.biz
+  ##- DOMAIN,z-library.biz
 
-  ##- DOMAIN-SUFFIX,z-library.biz
+  ##emby
+  - DOMAIN-SUFFIX,zzm.li
+  - DOMAIN-SUFFIX,ftp2.eu.org
+  - DOMAIN-SUFFIX,covh.eu.org

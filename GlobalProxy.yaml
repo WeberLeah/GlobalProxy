@@ -10,7 +10,7 @@ payload:
   ##- DOMAIN,hifiti.com
 
   ##动漫
-  ##- DOMAIN,mikanime.tv
+  - DOMAIN,mikanime.tv
 
   ##小说
  ## - DOMAIN,aabook.net
